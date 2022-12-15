@@ -1,6 +1,17 @@
-# เอกสารประกอบการติดตั้งโปรแกรม URL-Shortner
+# เอกสารประกอบการติดตั้งโปรแกรม URL Shortner 
 
-##codeigniter
+## codeigniter
+
+- php codeigniter framework
+- ฐานข้อมูล mysql
+
+## ขั้นตอนการติดตั้ง
+- ดาวน์โหลดไฟล์ .zip 
+- ## สามารถดาวน์โหลดได้โดยการกดปุ่ม Code (สีเขียวมุมบนขวา) => Download ZIP
+- unzip และนำโฟลเดอร์ไปวางที่ htdocs folder
+- สร้างฐานข้อมูลชื่อ redirect
+- import sql ชื่อไฟล์ > redirect.sql เข้าไปยังฐานข้อมูล redirect
+- 
 
 This is a small url shortner website based on php codeigniter framework.
 Download the zip file,unzip it and place it into your htdocs folder.
