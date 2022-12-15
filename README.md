@@ -13,6 +13,9 @@
 - import sql ชื่อไฟล์ > redirect.sql เข้าไปยังฐานข้อมูล redirect
 - พร้อมใช้งานระบบ Short URL โดยการกรอกข้อมูล url ที่ต้องการ จากนั้นให้ระบบ
 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 This is a small url shortner website based on php codeigniter framework.
 Download the zip file,unzip it and place it into your htdocs folder.
 Create a new database and name it 'redirect'.
