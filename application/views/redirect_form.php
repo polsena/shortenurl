@@ -9,6 +9,7 @@
     <div class="container">
   <?php echo form_open('url/short_url' , ['class'=>'form-horizontal']) ;?>
     <div class="container">
+      <br><br>
       <fieldset>
           <legend>Short your URL here</legend>
           <div class="row">
@@ -28,7 +29,9 @@
   <?php if($data = $this->session->flashdata('short'))
   {
     echo "your short URL is "."<p class='text-info'>".$data."</p>" ;
-  }
+    echo "<br> test url <br>";
+    echo  '<a href="'.$data.'" target="_blank"/>'.$data.'</a>';
+  }    
   ?>
 </div>
 </div>
