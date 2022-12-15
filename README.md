@@ -15,9 +15,12 @@
 - ทดสอบโดยการกรอกข้อมูล url ที่ต้องการ จากนั้นให้ระบบสร้าง Short URL ออกมา 
   จากนั้นทดลอง copy url ที่ได้จากระบบไปลองวางใน address ของเบราเซอร์เพื่อตรวจสอบความถูกต้องของลิงค์ปลายทาง
 
+## ตัวอย่างหน้าตาการใช้งาน
 
 ![This is an image](https://caffeinelism.com/upload/screenshot/Screenshot%202022-12-16%20005925.jpg)
 
 ![This is an image](https://caffeinelism.com/upload/screenshot/03.jpg)
+
+## ระบบจะเก็บช้อมูลของ url ต้นทางและ short url ลงในฐานข้อมูล
 
 ![This is an image](https://caffeinelism.com/upload/screenshot/04.jpg)
